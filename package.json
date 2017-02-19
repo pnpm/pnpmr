@@ -1,6 +1,6 @@
 {
   "name": "pnpmr",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Recursive installation using pnpm",
   "bin": "lib/cli.js",
   "main": "lib/index.js",
