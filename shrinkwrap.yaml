@@ -1,7 +1,7 @@
 dependencies:
   cross-spawn-promise@^0.9.2: registry.npmjs.org/cross-spawn-promise/0.9.2
   find-packages@^2.0.0: registry.npmjs.org/find-packages/2.0.0
-  pnpm@^0.55.3: registry.npmjs.org/pnpm/0.55.3
+  pnpm@^0.60.3: registry.npmjs.org/pnpm/0.60.3
   typescript@^2.1.6: registry.npmjs.org/typescript/2.2.1
 packages:
   registry.npmjs.org/@types/node/7.0.5:
@@ -205,10 +205,10 @@ packages:
     resolution:
       shasum: 72556b80cfa0d48a974e80e77248e80ed4f7f870
       tarball: 'https://registry.npmjs.org/pinkie/-/pinkie-2.0.4.tgz'
-  registry.npmjs.org/pnpm/0.55.3:
+  registry.npmjs.org/pnpm/0.60.3:
     resolution:
-      shasum: 0b8a1db67b55d9b38923c571fb0e0d16f88b6661
-      tarball: 'https://registry.npmjs.org/pnpm/-/pnpm-0.55.3.tgz'
+      shasum: e8c8b7c0c42bf2b5c7c6b8291998889510030d5f
+      tarball: 'https://registry.npmjs.org/pnpm/-/pnpm-0.60.3.tgz'
   registry.npmjs.org/pseudomap/1.0.2:
     resolution:
       shasum: f052a28da70e618917ef0a8ac34c1ae5a68286b3
