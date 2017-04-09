@@ -1,6 +1,6 @@
 # pnpmr
 
-> Recursive installation using pnpm
+> Run pnpm on all subpackages
 
 ## Installation
 
@@ -8,23 +8,18 @@
 npm i -g pnpmr
 ```
 
-## CLI Usage
+## Usage
+
+Run it the same way you'd run pnpm. It will execute pnpm on each subpackage. For example, to install in all subpackages, run:
 
 ```sh
-$ pnpmr
-
-# or run it with options that will be passed to `npm install`
-$ pnpmr --ignore-scripts
+$ pnpmr i
 ```
 
-## API Usage
+To run tests in all subdeps, run:
 
-```js
-import pnpmr from 'pnpmr'
-
-pnpmr(process.cwd(), {
-  ignoreScripts: true
-})
+```sh
+$ pnpmr test
 ```
 
 ## License

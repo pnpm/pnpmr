@@ -13,5 +13,3 @@ before_install:
   - npm install -g pnpm
 install:
   - pnpm install
-script:
-  - npm test

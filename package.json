@@ -1,15 +1,14 @@
 {
   "name": "pnpmr",
   "version": "0.1.1",
-  "description": "Recursive installation using pnpm",
+  "description": "Run pnpm on all subpackages",
   "bin": "lib/cli.js",
-  "main": "lib/index.js",
+  "main": "lib/cli.js",
   "files": [
     "lib"
   ],
   "typings": "lib/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc",
     "prepublish": "npm run tsc"
   },
