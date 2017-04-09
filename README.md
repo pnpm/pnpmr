@@ -2,6 +2,8 @@
 
 > Run pnpm on all subpackages
 
+[![Build Status](https://img.shields.io/travis/pnpm/pnpmr/master.svg)](https://travis-ci.org/pnpm/pnpmr) [![npm version](https://img.shields.io/npm/v/pnpmr.svg)](https://www.npmjs.com/package/pnpmr)
+
 ## Installation
 
 ```
