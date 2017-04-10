@@ -1,6 +1,6 @@
 {
   "name": "pnpmr",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Run pnpm on all subpackages",
   "bin": "lib/cli.js",
   "main": "lib/cli.js",
