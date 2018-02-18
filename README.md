@@ -1,3 +1,5 @@
+> This package is deprecated! You can now use the `pnpm recursive` commands of [pnpm](https://github.com/pnpm/pnpm) instead of pnpmr
+
 # pnpmr
 
 > Run pnpm on all subpackages
